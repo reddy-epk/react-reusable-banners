@@ -10,7 +10,7 @@ This project is about creating react **Reusable Banners**
 
 
 
-### Set Up Instructions for individuals
+### Set Up Instructions for Individuals
 
 <details>
 <summary>Click to view</summary>
