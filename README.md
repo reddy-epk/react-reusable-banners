@@ -1,4 +1,4 @@
-This project is about **Reusable Banners** 
+This project is about creating react **Reusable Banners** 
 
 ### Refer to the image below:
 
@@ -10,7 +10,7 @@ This project is about **Reusable Banners**
 
 
 
-### Set Up Instructions
+### Set Up Instructions for individuals
 
 <details>
 <summary>Click to view</summary>
@@ -19,22 +19,3 @@ This project is about **Reusable Banners**
 - Start up the app using `npm start`
 </details>
 
-
-<summary>Implementation Files</summary>
-<br/>
-
-Use these files to complete the implementation:
-
-- `src/App.js`
-- `src/App.css`
-- `src/components/BannerCardItem/index.js`
-- `src/components/BannerCardItem/index.css`
-</details>
-
-
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
